@@ -1,6 +1,6 @@
 # Set up a developer environment
 
-### Prepare a Developer Tenant for testing
+### Check credentials
 Check that you have an access to Microsoft 365 tenant and Azure subscription with provided credentials.
 
 ### Enable app sideloading
