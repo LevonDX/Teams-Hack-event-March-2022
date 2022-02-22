@@ -11,9 +11,6 @@ After you have a tenant, you need to enable sideloading for your tenant, see [en
 ### Challenge 0-1. Upload an app using via Teams client.
 Upload to the org' app catalog the app manifest of Test app #1 using Org's catalog (screenshot above). This option is avaliable only for admins.
 
-**Success criteria**:
-
-
 ### Developer portal.
 The Developer Portal for Teams is the primary tool for configuring, distributing, and managing your Microsoft Teams apps. <br/>
 Open [https://dev.teams.microsoft.com/](https://dev.teams.microsoft.com/home) and check which tools are avaliable on Developer portal.<br/>
@@ -25,7 +22,7 @@ Open [https://dev.teams.microsoft.com/](https://dev.teams.microsoft.com/home) an
 3. Publish the app to Org catalog via Developer Portal.
 4. Check that Test app #2 appeared in Org's catalog.
 
-**Success criteria**:
+## Success criteria ##:
 1. Test app #1 is uploaded to the organization's app catalog
 2. Test app #2 is uploaded to the organization's app catalog with upldated version.
 
