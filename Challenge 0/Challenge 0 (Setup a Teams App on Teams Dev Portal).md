@@ -28,9 +28,10 @@ Open [https://dev.teams.microsoft.com/](https://dev.teams.microsoft.com/home) an
 
 
 **Resources**: </br>
-0. [Upload your app in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/apps-upload)
-1. [Enable custom Teams apps and turn on custom app uploading](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant#enable-custom-teams-apps-and-turn-on-custom-app-uploading).
-2. [Manage your apps in the Microsoft Teams admin center](https://docs.microsoft.com/en-us/MicrosoftTeams/manage-apps): [Publish a custom app to your organization's app store](https://docs.microsoft.com/en-us/MicrosoftTeams/manage-apps#publish-a-custom-app-to-your-organizations-app-store)
+1. [Upload your app in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/apps-upload)
+2. [Enable custom Teams apps and turn on custom app uploading](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant#enable-custom-teams-apps-and-turn-on-custom-app-uploading).
+3. [Manage your apps in the Microsoft Teams admin center](https://docs.microsoft.com/en-us/MicrosoftTeams/manage-apps): [Publish a custom app to your organization's app store](https://docs.microsoft.com/en-us/MicrosoftTeams/manage-apps#publish-a-custom-app-to-your-organizations-app-store)
+4. [Developer portal](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Challenge%200/devportal.png)
 
 
 
