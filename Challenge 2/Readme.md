@@ -12,7 +12,7 @@ Your mission for this challenge is to **extend** the Bot you created in the prev
 2. The Bot should send a "Welcome message" when a user is added to the Teams Channel.
 3. The Bot should have the below commands:
     1. **Support Tickets List**, that will return a "static list" of open support tickets as plain text. There is a predefined list of tickets that you can use [here](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Challenge%202/Resources/SupportTickets.csv).
-    2. **Support Tickets Card**, that will return the same list but using a "Card Type"((<https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/cards-reference>)) that is supported by Teams.
+    2. **Support Tickets Card**, that will return the same list but using a ["Card Type"](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/cards-reference) that is supported by Teams.
 
 ## Success Criteria
 
