@@ -8,8 +8,8 @@ After you have a tenant, you need to enable sideloading for your tenant, see [en
 ![Upload a custom app option](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Challenge%200/sideloading.png)
 <br/>
 
-### Challenge 0-1. Upload an app using 
-Upload to the org' app catalog the app manifest of Test app #1 using Org's catalog (screenshot above)
+### Challenge 0-1. Upload an app using via Teams client.
+Upload to the org' app catalog the app manifest of Test app #1 using Org's catalog (screenshot above). This option is avaliable only for admins.
 
 ### Developer portal.
 The Developer Portal for Teams is the primary tool for configuring, distributing, and managing your Microsoft Teams apps. <br/>
