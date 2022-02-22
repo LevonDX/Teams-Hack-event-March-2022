@@ -8,13 +8,19 @@ After you have a tenant, you need to enable sideloading for your tenant, see [en
 ![Upload a custom app option](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Challenge%200/sideloading.png)
 <br/>
 
+### Challenge 0-1. Upload an app using 
+Upload to the org' app catalog the app manifest of Test app #1 using Org's catalog (screenshot above)
+
 ### Developer portal.
 The Developer Portal for Teams is the primary tool for configuring, distributing, and managing your Microsoft Teams apps. <br/>
 Open [https://dev.teams.microsoft.com/](https://dev.teams.microsoft.com/home) and check which tools are avaliable on Developer portal.<br/>
 ![Developer portal](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Challenge%200/devportal.png)
 
-### Challenge.
-Upload to the org' app catalog the app manifest of Teast app.
+### Challenge 0-2. Upload an app using Developer portal/Microsoft Teams admin center
+1. Import the app manifest of Test app #2 to the Developer portal.
+2. Publish the app to Org catalog via Developer Portal.
+3. 
+4. 
 
 0. https://docs.microsoft.com/en-us/microsoftteams/platform/overview
 1. https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-overview
@@ -22,4 +28,4 @@ Upload to the org' app catalog the app manifest of Teast app.
 -> need to determine success factos for this one. The idea is that this is the starting point, where the dev setups bot, tabs tec
 
 **Success criteria**:
-1. Test app manifest is uploaded to the organization's app catalog
+1. Both Test app #1 and Test app #2 are uploaded to the organization's app catalog
