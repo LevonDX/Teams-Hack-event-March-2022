@@ -27,7 +27,7 @@ Open [https://dev.teams.microsoft.com/](https://dev.teams.microsoft.com/home) an
 2. Test app #2 is uploaded to the organization's app catalog with upldated version.
 
 
-**Resources**:
+**Resources**: </br>
 0. [Upload your app in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/apps-upload)
 1. [Enable custom Teams apps and turn on custom app uploading](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/prepare-your-o365-tenant#enable-custom-teams-apps-and-turn-on-custom-app-uploading).
 2. [Manage your apps in the Microsoft Teams admin center](https://docs.microsoft.com/en-us/MicrosoftTeams/manage-apps): [Publish a custom app to your organization's app store](https://docs.microsoft.com/en-us/MicrosoftTeams/manage-apps#publish-a-custom-app-to-your-organizations-app-store)
