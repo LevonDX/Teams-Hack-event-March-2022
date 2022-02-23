@@ -16,13 +16,13 @@ The Bot should have two commands:
 
 ## Getting Started
 
-Use the ***Conversation bot*** sample on **Learning Resources** in order to start with the coding part of your bot.
+1. Use the ***Conversation bot*** sample on **Learning Resources** in order to start with the coding part of your bot.
     1. Make sure that the sample builds and runs locally
     2. Expose your local environment publicly by using ngrok
     3. Configure your Azure Bot Service to consume your local exposed end point.
-7. Add your Bot to Teams and start an 1-1 dialog.
-8. Tweak the code as needed in order to implement the required features.
-9. Deploy your Bot to Azure, on an App Service, and re-configure the Azure Bot Service accordingly.
+2. Add your Bot to Teams and start an 1-1 dialog.
+3. Tweak the code as needed in order to implement the required features.
+4. Deploy your Bot to Azure, on an App Service, and re-configure the Azure Bot Service accordingly.
 
 ## Success Criteria
 
