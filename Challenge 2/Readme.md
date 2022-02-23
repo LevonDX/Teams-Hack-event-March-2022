@@ -28,8 +28,8 @@ Your mission for this challenge is to **extend** the Bot you created in the prev
     3. [Welcome user in TypeScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/typescript_nodejs/03.welcome-users),
     4. [Welcome user in Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/03.welcome-user),
     5. [Welcome user in Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/03.welcome-user)
-    6. [Welcome user in C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/06.using-cards),
-    7. [Welcome user in JavaScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/05.multi-turn-prompt),
-    8. [Welcome user in TypeScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/typescript_nodejs/06.using-cards),
-    9. [Welcome user in Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/06.using-cards),
-    10. [Welcome user in Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/06.using-cardshttps://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/06.using-cardshttps://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/06.using-cards)
+    6. [Using cards in C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/06.using-cards),
+    7. [Using cards in JavaScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/05.multi-turn-prompt),
+    8. [Using cards in TypeScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/typescript_nodejs/06.using-cards),
+    9. [Using cards in Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/06.using-cards),
+    10. [Using cards in Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/06.using-cardshttps://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/06.using-cardshttps://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/06.using-cards)
