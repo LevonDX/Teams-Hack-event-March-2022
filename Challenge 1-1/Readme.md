@@ -2,11 +2,15 @@
 
 ## Prerequisites
 
-Complete Challenge #0, for setting up a Teams app.
+Complete Challenge #0, for setting up your environment.
 
 ## Description
 
 Your mission for this challenge is to **setup** all required moving parts in order to have a Bot with a Teams Channel.
+
+## Setting the context
+
+This challenge is more a ***tutorial*** than a ***challenge***. There are easier and faster approaches to accomplishing the desired outcome, however these approaches hide the actual complexity of all needed moving parts, and while they accelerate the ***getting started***, they can set obstacles while moving towards ***production***. So, the idea is to setup everything manually in order to get a ***working knowledge*** of all needed parts and how they work together.
 
 ## Getting Started
 
@@ -38,6 +42,7 @@ Your mission for this challenge is to **setup** all required moving parts in ord
     2. What is an Azure Bot and why is it needed when running a Bot?
     3. How is your Bot packaged within the Teams Application?
     4. Where will be the actual Bot hosted?
+    5. Can you migrate your Bot to another Azure AD tenant?
 
 ## Learning Resources
 
