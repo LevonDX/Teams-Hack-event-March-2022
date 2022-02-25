@@ -1,15 +1,17 @@
-# Challenge 2: Create a Teams Channel Bot
+# Challenge 5: Create Messaging extension.
 
 ## Prerequisites
 
-Complete Challenge #1, you should have an 1-1 Bot already setup.
+Complete Challenge #1, you should have an 1-1 Bot already setup. Bot
 
 ## Description
 
-Your mission for this challenge is to **extend** the Bot you created in the previous challenge, in order to have the following features:
+Your mission for this challenge is to **create** the messaging extension.
+Messaging extension should have the following functionality:
 
-1. The Bot should now have the functionality to be added on a Teams Channel.
-2. The Bot should send a "Welcome message" when a user is added to the Teams Channel.
+1. Suport engineer should be able to send an Adaptive card with detailed information about the incident to 1:1 chat/team's channel.
+![Messaging extension: search action](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me1.png)
+2. (optional) Support engineer should be able to create a new incident from the user message.
 3. The Bot should have the below commands:
     1. **Support Tickets List**, that will return a "static list" of open support tickets as plain text. There is a predefined list of tickets that you can use [here](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Challenge%202/Resources/SupportTickets.csv).
     2. **Support Tickets Card**, that will return the same list but using a ["Card Type"](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/cards-reference) that is supported by Teams.
