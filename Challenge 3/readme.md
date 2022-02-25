@@ -13,7 +13,7 @@ There are two types of tabs available in Teams, **personal** and **channel or gr
 For step-by-step tutorial, how to create a custom Personal tab and add it to Teams, please follow  [Create Personal Tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-personal-tab?tabs=aspnetcore)
 
 
-1. Download sample app from github or create from scratch 
+1. Download [sample app from github](https://github.com/OfficeDev/microsoft-teams-sample-tabs.git) or create from scratch 
 2. Change "Personl Tab" page to show list of submitted tickets
 3. Publish your application to Azure App Service
 4. Open "Developer Portal"(recommended) or "App Studio" and open your application
@@ -30,7 +30,7 @@ For step-by-step tutorial, how to create a custom Personal tab and add it to Tea
 
 <br/>
 
-# Authenticate a user in a Microsoft Teams tab
+# Authenticate a user in a Microsoft Teams tab (Optional)
 
 There are many services that you may want to consume inside your Teams app, and most of those services require authentication and authorization to get access to the service. Services include Facebook, Twitter, and Teams. Teams user profile information is stored in Azure AD using Microsoft Graph and this article will focus on authentication using Azure AD to get access to this information.
 
