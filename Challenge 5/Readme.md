@@ -10,21 +10,22 @@ Your mission for this challenge is to **create** the messaging extension.
 Messaging extension should have the following functionality:
 
 1. Suport engineer should be able to send an Adaptive card with detailed information about the incident to 1:1 chat/team's channel.
-![Messaging extension: search action](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me1.png)
-2. (optional) Support engineer should be able to create a new incident from the user message.
-3. The Bot should have the below commands:
-    1. **Support Tickets List**, that will return a "static list" of open support tickets as plain text. There is a predefined list of tickets that you can use [here](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Challenge%202/Resources/SupportTickets.csv).
-    2. **Support Tickets Card**, that will return the same list but using a ["Card Type"](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/cards-reference) that is supported by Teams.
+![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me1.png)
+![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me2.png)
+2. (optional) Support engineer should be able to create a new incident from the user message
+![Messaging extension: action commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me2.png)
 
 ## Success Criteria
 
-1. Demonstrate to your coach that when you add a new user to the Teams Channel the Bot sends a "Welcome Message".
-2. Demonstrate to your coach that the Bot has 2 commands on the "Team Channel" context as listed above.
+1. Demonstrate to your coach that you can send an adaptive card with the information about incident to 1-1 chat/team's channel.
+2. Demonstrate to your coach that you can create a new incident from user's message.
 
 ## Learning Resources
 
-1. [Types of Cards](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/cards-reference)
-1. Code Samples
+1. [Types of Cards](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions)
+2. [Search commands](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/search-commands/define-search-command)
+3. [Action commands](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/action-commands/define-action-command)
+4. Code Samples
     1. [Welcome user in C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/03.welcome-user),
     2. [Welcome user in JavaScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/03.welcome-users),
     3. [Welcome user in TypeScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/typescript_nodejs/03.welcome-users),
