@@ -13,7 +13,7 @@ Messaging extension should have the following functionality:
 ![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me1.png)
 ![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me2.png)
 2. (optional) Support engineer should be able to create a new incident from the user message
-![Messaging extension: action commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me.png)
+![Messaging extension: action commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me3.png)
 
 ## Success Criteria
 
