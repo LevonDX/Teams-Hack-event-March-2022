@@ -13,7 +13,7 @@ Messaging extension should have the following functionality:
 ![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me1.png)
 ![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me2.png)
 2. (optional) Support engineer should be able to create a new incident from the user message
-![Messaging extension: action commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me2.png)
+![Messaging extension: action commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me.png)
 
 ## Success Criteria
 
@@ -26,9 +26,9 @@ Messaging extension should have the following functionality:
 2. [Search commands](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/search-commands/define-search-command)
 3. [Action commands](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/action-commands/define-action-command)
 4. Code Samples
-    1. [Welcome user in C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/03.welcome-user),
-    2. [Welcome user in JavaScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/03.welcome-users),
-    3. [Welcome user in TypeScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/typescript_nodejs/03.welcome-users),
+    1. Messaging extensions - search: in [.C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/50.teams-messaging-extensions-search),	[JavaScript](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/50.teams-messaging-extensions-search),	[Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/50.teams-messaging-extensions-search),	[Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/50.teams-messaging-extensions-search).
+    2. [Messaging extensions - search in JavaScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/03.welcome-users),
+    3. [Messaging extensions - search in TypeScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/typescript_nodejs/03.welcome-users),
     4. [Welcome user in Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/03.welcome-user),
     5. [Welcome user in Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/03.welcome-user)
     6. [Using cards in C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/06.using-cards),
