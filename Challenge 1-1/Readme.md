@@ -24,7 +24,7 @@ This challenge is more a ***tutorial*** than a ***challenge***. There are easier
 4. Configure your Azure Bot
     1. To use a custom icon, via Bot Profile. [You can use this icon](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/custom-bot-framework-icon.png)
     2. To have a Teams Channel, via Channels.
-5. [Next using Teams Development Portal, create a new App](https://dev.teams.microsoft.com/apps)
+5. [Next using Development Portal, create a new App](https://dev.teams.microsoft.com/apps)
     1. Configure the Basic Information and make sure you set the Web Site Url, Privacy Policy and Terms of Use.
     2. Add a new Bot Feature from the App Features selection, and configure it by setting the bot ID manually. The bot ID is the same as the Azure AD Application Registration ID.
      ![bot id](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/TeamsPortalBotConfig.jpg)
