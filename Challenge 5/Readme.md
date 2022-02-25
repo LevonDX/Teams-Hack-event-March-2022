@@ -22,17 +22,9 @@ Messaging extension should have the following functionality:
 
 ## Learning Resources
 
-1. [Types of Cards](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions)
+1. [Messaging extensions](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions)
 2. [Search commands](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/search-commands/define-search-command)
 3. [Action commands](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/action-commands/define-action-command)
 4. Code Samples
-    1. Messaging extensions - search: in [.C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/50.teams-messaging-extensions-search),	[JavaScript](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/50.teams-messaging-extensions-search),	[Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/50.teams-messaging-extensions-search),	[Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/50.teams-messaging-extensions-search).
-    2. [Messaging extensions - search in JavaScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/03.welcome-users),
-    3. [Messaging extensions - search in TypeScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/typescript_nodejs/03.welcome-users),
-    4. [Welcome user in Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/03.welcome-user),
-    5. [Welcome user in Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/03.welcome-user)
-    6. [Using cards in C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/06.using-cards),
-    7. [Using cards in JavaScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/05.multi-turn-prompt),
-    8. [Using cards in TypeScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/typescript_nodejs/06.using-cards),
-    9. [Using cards in Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/06.using-cards),
-    10. [Using cards in Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/06.using-cardshttps://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/06.using-cardshttps://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/06.using-cards)
+    1. Messaging extensions - search: in [C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/50.teams-messaging-extensions-search),	[JavaScript](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/50.teams-messaging-extensions-search),	[Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/50.teams-messaging-extensions-search),	[Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/50.teams-messaging-extensions-search).
+    2. Messaging extensions - action: in [C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/51.teams-messaging-extensions-action),	[JavaScript](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/51.teams-messaging-extensions-action),	[Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/51.teams-messaging-extensions-action),	[Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/51.teams-messaging-extensions-action).
