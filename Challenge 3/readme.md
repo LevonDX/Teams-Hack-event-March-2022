@@ -3,12 +3,17 @@
 Tabs are Teams-aware webpages embedded in Microsoft Teams. They are simple HTML <iframe\> tags that point to domains declared in the app manifest and can be added as part of a channel inside a team, group chat, or personal app for an individual user. You can include custom tabs with your app to embed your own web content in Teams or add Teams-specific functionality to your web content.
 <br/><br/>
 
-The following image shows personal tabs<br/><br/>
-![The San Juan Mountains are beautiful!](/img/personaltab.png "Teams Tab")
-
-
-
 There are two types of tabs available in Teams, **personal** and **channel or group**. Personal tabs, along with personally-scoped bots, are part of personal apps and are scoped to a single user. It this challange we are going to create a personal tab that will show list of support tickets. You can use prepopulated list of tickets from Challenge 2, or hardcode it in HTML, if you prefer.
+
+The following image shows personal tabs<br/><br/>
+![Personal tab](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/personal_tab.png "Personal tab")
+
+
+## Description
+
+Your mission for this challenge is to **create** a personal tab for Teams.
+
+## Getting Started
 
 For step-by-step tutorial, how to create a custom Personal tab and add it to Teams, please follow  [Create Personal Tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-personal-tab?tabs=aspnetcore)
 
@@ -36,4 +41,6 @@ There are many services that you may want to consume inside your Teams app, and 
 
 Add authentication support to your Teams Tab:
 
-1. 
+
+
+## Learning Resources
