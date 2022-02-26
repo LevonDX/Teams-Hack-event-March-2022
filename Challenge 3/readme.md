@@ -10,7 +10,7 @@ The following image shows personal tab:<br/>
 
 ## Description
 
-Your mission for this challenge is to **create** a personal tab for Teams.
+Your mission for this challenge is to **create** a personal tab for Teams that shows the list of submitted tickets.
 
 ## Getting Started
 
