@@ -17,7 +17,7 @@ Messaging extension should have the following functionality:
 
 ## Success Criteria
 
-1. Demonstrate to your coach that you can send an adaptive card with the information about incident to 1-1 chat/team's channel.
+1. Demonstrate to your coach that you can send an adaptive card with the information about incident to 1-1 chat and team's channel.
 2. Demonstrate to your coach that you can create a new incident from user's message.
 
 ## Learning Resources
