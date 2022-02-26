@@ -41,8 +41,5 @@ The Bot should have two commands:
     1. [Publish an ASP.NET Core app to Azure with Visual Studio](https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-vs?view=aspnetcore-6.0)
     2. [Deploy to Azure App Service using Visual Studio Code](https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/deploy-to-azure-vscode?view=azure-devops)
     3. [Deploy your bot in Azure](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-deploy-az-cli?view=azure-bot-service-4.0&tabs=csharp%2Cuserassigned)
-6. Code Samples
-    1. [Conversation bot in C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/57.teams-conversation-bot),
-    2. [Conversation bot in JavaScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/57.teams-conversation-bot),
-    3. [Conversation bot in Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/57.teams-conversation-bot),
-    4. [Conversation bot in Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/57.teams-conversation-bot)
+6. Code Samples:
+    1. Teams Conversation bot: [C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/57.teams-conversation-bot), JavaScript / Node.js (https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/57.teams-conversation-bot), [Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/57.teams-conversation-bot), [Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/57.teams-conversation-bot)
