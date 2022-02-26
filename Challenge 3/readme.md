@@ -43,4 +43,8 @@ Add authentication support to your Teams Tab:
 
 
 ## Learning Resources
-1. 
+1. [Build Tabs for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs).
+2. [Prerequisites](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/tab-requirements)
+3. [Create a personal tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-personal-tab?tabs=nodejs).
+4. Code samolesL:
+ 1. [Tabs samples](https://github.com/OfficeDev/Microsoft-Teams-Samples#tabs-samples).
