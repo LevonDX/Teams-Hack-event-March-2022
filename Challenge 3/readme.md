@@ -4,7 +4,7 @@ Tabs are Teams-aware webpages embedded in Microsoft Teams. They are simple HTML 
 <br/>
 There are two types of tabs available in Teams, **personal** and **channel or group**. Personal tabs, along with personally-scoped bots, are part of personal apps and are scoped to a single user. It this challange we are going to create a personal tab that will show list of support tickets. You can use prepopulated list of tickets from Challenge 2, or hardcode it in HTML, if you prefer.
 
-The following image shows personal tabs<br/><br/>
+The following image shows personal tab:<br/>
 ![Personal tab](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/personal_tab.png "Personal tab")
 <br>
 
