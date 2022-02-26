@@ -18,11 +18,11 @@ For step-by-step tutorial, how to create a custom Personal tab and add it to Tea
 
 
 1. Download [sample app from github](https://github.com/OfficeDev/microsoft-teams-sample-tabs.git) or create from scratch.
-2. Change **"Personl Tab"** page to show list of submitted tickets.
+2. Change a code of ["Personal Tab" page](https://github.com/OfficeDev/microsoft-teams-sample-tabs/blob/master/PersonalTab/Pages/PersonalTab.cshtml) to show list of submitted tickets.
 3. Publish your application to Azure App Service.
-4. Open **"Developer Portal"**(recommended) or "App Studio" and open your application.
+4. Open "Developer Portal"(recommended) or "App Studio" and open your application.
 5. Add Personal Tab to your application and change the app version.
-6. Press **"Submit new version"**.
+6. Press "Submit new version".
 7. Go to Admin Center to approve published application.
 8. Go to Teams Store (bottom of your Teams) and install the updated version of the app.
 
