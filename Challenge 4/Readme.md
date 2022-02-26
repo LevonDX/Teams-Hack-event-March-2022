@@ -17,7 +17,7 @@ Your mission for this challenge is to **create** a personal tab for Teams that s
 For step-by-step tutorial, how to create a custom Personal tab and add it to Teams, please follow  [Create Personal Tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-personal-tab?tabs=aspnetcore).
 
 
-1. Download [sample app from github](https://github.com/OfficeDev/microsoft-teams-sample-tabs.git) or create from scratch.
+1. Download sample app from GitHib "Personal tab with SSO quick-start" ([C#](https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/main/samples/tab-personal-sso-quickstart/csharp_dotnetcore), [TypeScript](https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/main/samples/tab-personal-sso-quickstart/ts), [JavaScript](https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/main/samples/tab-personal-sso-quickstart/js)) or create from scratch ([Create Personal Tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-personal-tab?tabs=aspnetcore)).
 2. Change **"Personl Tab"** page to show list of submitted tickets.
 3. Publish your application to Azure App Service.
 4. Open **"Developer Portal"**(recommended) or "App Studio" and open your application.
