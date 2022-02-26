@@ -17,8 +17,8 @@ Your mission for this challenge is to **create** a personal tab for Teams that s
 For step-by-step tutorial, how to create a custom Personal tab and add it to Teams, please follow  [Create Personal Tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-personal-tab?tabs=aspnetcore).
 
 
-1. Download sample app from GitHib "Personal tab with SSO quick-start" ([C#](https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/main/samples/tab-personal-sso-quickstart/csharp_dotnetcore), [TypeScript](https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/main/samples/tab-personal-sso-quickstart/ts), [JavaScript](https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/main/samples/tab-personal-sso-quickstart/js)) or create from scratch ([Create Personal Tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-personal-tab?tabs=aspnetcore)).
-2. Change a code of ["Personal Tab" page](https://github.com/OfficeDev/microsoft-teams-sample-tabs/blob/master/PersonalTab/Pages/PersonalTab.cshtml) to show list of submitted tickets.
+1.  Download sample app from GitHib ["Personal tab with SSO quick-start"](https://github.com/OfficeDev/Microsoft-Teams-Samples/tree/main/samples/tab-personal-sso-quickstart) or create from scratch ([Create Personal Tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-personal-tab?tabs=aspnetcore)).
+2. If you use a code sample change a code of ["Home" page](https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/main/samples/tab-personal-sso-quickstart/csharp_dotnetcore/Views/Home/Index.cshtml) to show list of submitted tickets.
 3. Publish your application to Azure App Service.
 4. Open "Developer Portal"(recommended) or "App Studio" and open your application.
 5. Add Personal Tab to your application and change the app version.
