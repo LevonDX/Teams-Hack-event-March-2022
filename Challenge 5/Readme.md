@@ -10,10 +10,10 @@ Your mission for this challenge is to **create** the messaging extension.
 Messaging extension should have the following functionality:
 
 1. Suport engineer should be able to send an Adaptive card with detailed information about the incident to 1:1 chat/team's channel.
-![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me1.png)
-![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me2.png)
+![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me1.png)
+![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me2.png)
 2. (optional) Support engineer should be able to create a new incident from the user message
-![Messaging extension: action commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/me3.png)
+![Messaging extension: action commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me3.png)
 
 ## Success Criteria
 
