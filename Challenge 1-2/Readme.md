@@ -11,6 +11,7 @@ The Bot should have two commands:
 
 1. Create Support Ticket.
     1. The user should be able to write as free text his/hers support ticket request, the Bot should reply back that it received the ticket and also write back to original text. At this stage the Bot does **not** need to "persist" the new ticket request.
+    ![New support ticket](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/new_incident.png)
 2. Help command.
     1. The Bot should reply back with all available commands, in this case just Create Support Ticket.
 3. The Bot should show the above commands as ***suggestions*** before the user actually types anything.
