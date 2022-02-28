@@ -32,14 +32,6 @@ For step-by-step tutorial, how to create a custom Personal tab and add it to Tea
 
 
 
-<br/>
-
-# Authenticate a user in a Microsoft Teams tab (Optional)
-
-There are many services that you may want to consume inside your Teams app, and most of those services require authentication and authorization to get access to the service. Services include Facebook, Twitter, and Teams. Teams user profile information is stored in Azure AD using Microsoft Graph and this article will focus on authentication using Azure AD to get access to this information.
-
-Add authentication support to your Teams Tab:
-
 
 
 ## Learning Resources
