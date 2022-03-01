@@ -18,10 +18,9 @@ For step-by-step tutorial, how to create a custom Channel tab and add it to a te
 1. Use the official documentation: [Create a channel or group tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-channel-group-tab?tabs=aspnetcore). The sample [Microsoft Teams tab samples](https://github.com/OfficeDev/microsoft-teams-sample-tabs.git) is used in this article.
 2. Publish your application to Azure App Service.
 3. Open **"Developer Portal"**(recommended) or "App Studio" and open your application.
-4. Add Group and Channel app to your application and change the app version.
-5. Press **"Submit new version"**.
-6. Go to Admin Center to approve published application.
-7. Go to Teams Store (bottom of your Teams) and install the updated version of the app.
+4. Add Group and Channel app to your application and publish the application to your org
+5. Go to Admin Center to approve published application.
+6. Go to Teams Store (bottom of your Teams) and install the updated version of the app.
 
 ## Success Criteria
 * Describe what is difference betwen static and configurable tab.
