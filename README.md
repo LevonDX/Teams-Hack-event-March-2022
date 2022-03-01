@@ -3,7 +3,9 @@
 ## Your Mission
 
 You are part of Contoso Development Team and you have been assigned with a task to create a new Contoso Service Desk application that will reside within Microsoft Teams.
-The requirements are the following: Create a Teams Application with the following features
+The requirements are the following:
+
+Create a Teams Application with the following features
 
 1. Create a Bot that receives 1-1 tickets requests
 2. Create a Bot that functions within a Teams Team and shows a list of open tickets
