@@ -11,7 +11,8 @@ After you have a tenant, you need to enable sideloading for your tenant, see [en
 
 ### Challenge 0-1. Upload an app using Teams client
 
-Upload to the org' app catalog the application package (zip file) of Test app #1 using Org's catalog (screenshot above). This option is available only for admins.
+Upload to the org' app catalog the application package (zip file) of ***PersonalTab app*** using Org's catalog (screenshot above). This option is available only for admins.
+***(You can find the PersonalTab.zip on the root folder of Challenge 0)***
 
 ### Developer portal
 
@@ -21,15 +22,15 @@ Open [https://dev.teams.microsoft.com/](https://dev.teams.microsoft.com/home) an
 
 ### Challenge 0-2. Upload an app using Developer portal/Microsoft Teams admin center
 
-1. Import the app manifest of Test app #2 to the Developer portal.
+1. Import application package of ***PersonalTab app*** to the Developer portal.
 2. Change the app version to 1.0.1
 3. Publish the app to Org catalog via Developer Portal.
-4. Check that Test app #2 appeared in Org's catalog.
+4. Check that ***PersonalTab app*** appeared in Org's catalog.
 
 ## Success criteria
 
-1. Test app #1 is uploaded to the organization's app catalog
-2. Test app #2 is uploaded to the organization's app catalog with upldated version.
+1. ***PersonalTab app*** is uploaded to the organization's app catalog
+2. ***PersonalTab app*** is uploaded to the organization's app catalog with updated version.
 
 ## Learning Resources
 
