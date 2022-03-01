@@ -28,7 +28,7 @@ For step-by-step tutorial, how to create a custom Personal tab and add it to Tea
 
 ## Success Criteria
 * Successfully publish the application in Azure App Service and run it in browser
-* Successfully add your to Teams
+* Successfully add your tab to Teams.
 * Demonstrate to your coach a personal tab that shows the list of current incidents.
 
 
