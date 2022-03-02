@@ -1,4 +1,4 @@
-# Challenge 5: Create Messaging extension.
+# Challenge 6: Create Messaging extension.
 
 ## Prerequisites
 
