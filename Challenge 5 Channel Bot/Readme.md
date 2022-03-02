@@ -1,4 +1,4 @@
-# Challenge 2: Create a Teams Channel Bot
+# Challenge 5: Create a Teams Channel Bot
 
 ## Prerequisites
 
