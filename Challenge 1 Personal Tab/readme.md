@@ -17,10 +17,9 @@ Your mission for this challenge is to **create** a personal tab for Teams that s
 For step-by-step tutorial, how to create a custom Personal tab and add it to Teams, please follow  [Create Personal Tab](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/create-personal-tab?tabs=aspnetcore).
 
 
-1. Download sample app from GitHib ["Personal tab quick-start"](https://github.com/OfficeDev/microsoft-teams-sample-tabs.git) or create from scratch a project (e.g. Asp.net core)
-2. Edit the code to show list of submitted tickets.
-3. Publish your application to Azure App Service. If you do it from VS, [this tutorial](https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs#publish-your-web-app) may help
-4. Open "Developer Portal"(recommended) or "App Studio" and open your application.
+1. Download sample app from GitHub ["Personal tab quick-start"](https://github.com/OfficeDev/microsoft-teams-sample-tabs.git).
+2. Publish your application to Azure App Service. If you do it from VS, [this tutorial](https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs#publish-your-web-app) may help.
+4. Open "Developer Portal" (app or website) and open your application.
 5. Add Personal Tab to your application and change the app version.
 6. Press "Submit new version".
 7. Go to Admin Center to approve published application.
@@ -29,7 +28,7 @@ For step-by-step tutorial, how to create a custom Personal tab and add it to Tea
 ## Success Criteria
 * Successfully publish the application in Azure App Service and run it in browser
 * Successfully add your tab to Teams.
-* Demonstrate to your coach a personal tab that shows the list of current incidents.
+* Demonstrate to your coach a personal tab.
 
 
 
