@@ -14,7 +14,7 @@ Your mission for this challenge is to implement SSO experience in existing perso
 
 ## Success Criteria
 
-1. Demonstrate to your coach that SSO for the app is configured and when user opens the app he/she'll see the.
+1. Demonstrate to your coach that SSO for the app is configured and show the sigh-in dialog for SSO.
 2. Demonstrate to your coach that the Bot has 2 commands on the "Team Channel" context as listed above.
 
 ## Learning Resources
