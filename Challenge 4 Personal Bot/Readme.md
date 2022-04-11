@@ -1,34 +1,25 @@
 # Challenge 4: Create a personal (1-1) Bot within Teams
 
+A bot is an app that runs simple and repetitive tasks by users such as customer service or support staff. Everyday use of bots include, bots that provide information about the weather, make dinner reservations, or provide travel information. Interactions with bots can be quick questions and answers or complex conversations.
 
 ## Description
+Your mission for this challenge is to **deploy** a Bot that can operate within Teams, and can have an interaction with a Teams users. The Bot should work in a "personal" and "channel" context.
 
-Your mission for this challenge is to **create** and **deploy** a Bot that can operate within Teams, and can have an 1-1 interaction with a Teams user. The Bot should only work on a "personal" context.
-The Bot should have two commands:
-
-1. Create Support Ticket.
-    1. The user should be able to write as free text his/hers, the Bot should reply back that the text is received and also write back to original text.
-
-2. Help command.
-    1. The Bot should reply back with all available commands, for example  "Create Support Ticket".
-
-3. The Bot should show the above commands as ***suggestions*** before the user actually types anything.
 ![Commands Popup](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/HelpPopUp.jpg)
 
 ## Getting Started
 
-1. Use the ***Conversation bot*** sample on **Learning Resources** in order to start with the coding part of your bot.
-    1. Make sure that the sample builds and runs locally
-    2. Expose your local environment publicly by using ngrok
-    3. Configure your Azure Bot Service to consume your local exposed end point.
-2. Add your Bot to Teams and start an 1-1 dialog.
-3. Tweak the code as needed in order to implement the required features.
-4. Deploy your Bot to Azure, on an App Service, and re-configure the Azure Bot Service accordingly.
+1. Use the Teams Conversation bot code sample: [C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/57.teams-conversation-bot), [JavaScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/57.teams-conversation-bot), [Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/57.teams-conversation-bot), [Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/57.teams-conversation-bot).
+2. Make sure that the sample builds and runs locally
+3. Expose your local environment publicly by using ngrok. Please use the [tutorial](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/debug)
+4. Configure your Azure Bot Service to consume your local exposed endpoint.
+5. Add your Bot to Teams and start an 1-1 dialog.
+6. Deploy your Bot to Azure, on an App Service, and re-configure the Azure Bot Service accordingly.
 
 ## Success Criteria
 
-1. Demonstrate to your coach a Bot that can have an 1-1 conversation with a user, with the above 2 commands and the ***suggestions*** functionality; and also that the Bot cannot be added on a Teams or Group chat.
-2. Demonstrate to your coach that the Bot is deployed on an Azure Service.
+1. Demonstrate to your coach a Bot that can have an 1-1 conversation with a user and works in channel as well, with the above 2 commands and the ***suggestions*** functionality;
+2. Demonstrate to your coach that the Bot is deployed on an Azure Service or you run in locally.
 
 ## Learning Resources
 
