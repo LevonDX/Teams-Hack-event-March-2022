@@ -22,7 +22,7 @@ Your mission for this challenge is to **deploy** a Bot that can operate within T
 
 ## Success Criteria
 
-1. Demonstrate to your coach a Bot that can have an 1-1 conversation with a user and works in channel as well, with the above 2 commands.
+1. Demonstrate to your coach a Bot that can have an 1-1 conversation with a user and works in channel as well, with the above 2 commands with suggestion functionality (see the screenshot above).
 2. Demonstrate to your coach that the Bot is deployed on an Azure Service or you run in locally.
 3. Demonstrate to your coach that when you add a new user to the Teams Channel the Bot sends a "Welcome Message".
 
