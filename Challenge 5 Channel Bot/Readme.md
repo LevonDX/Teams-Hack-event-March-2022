@@ -1,4 +1,4 @@
-# Challenge 5: Implement Single-Sign On
+# Challenge 5: Implement Single-Sign On for Tab
 
 Users sign in to Microsoft Teams through their work, school, or Microsoft account that is Office 365, Outlook, you can take the advantage by allowing a single sign on to authorize your Teams tab/bot/messaging extensions on desktop or mobile clients. If a user sign in once, they don't have to sign in again on another device as they're signed in automatically. Also, your access token is prefetched to improve performance and load times.
 ![SSO](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/sso.png)
@@ -21,7 +21,7 @@ Your mission for this challenge is to implement SSO experience in existing perso
 
 1. [Single sign-on (SSO) support for tabs](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet)
 2. [Single sign-on (SSO) support for bots](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
-3. [https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/enable-sso-auth-me](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/enable-sso-auth-me)
+3. [Single sign-on support for messaging extensions](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/enable-sso-auth-me)(https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/enable-sso-auth-me)
 4. Code Samples
     1. [Tabs samples](https://github.com/OfficeDev/Microsoft-Teams-Samples#tabs-samples) - many code samples with SSO.
     2. [Tab SSO](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet#code-sample).
