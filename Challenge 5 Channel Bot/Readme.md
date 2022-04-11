@@ -8,7 +8,7 @@ Users sign in to Microsoft Teams through their work, school, or Microsoft accoun
 Your mission for this challenge is to implement SSO experience in existing personal tab that you created in previous challenge or in new tab.
 
 ## Getting started
-1. Please read the article [Single sign-on (SSO) support for tabs](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet#code-sample) and use [code snippets](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet#code-snippets) to add into your existing tab.
+1. Please read the article [Single sign-on (SSO) support for tabs](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet) and use [code snippets](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet#code-snippets) to add into your existing tab.
 2. As in previous challenges add nessesary information to the app manifest and deploy the app.
 
 
@@ -19,9 +19,10 @@ Your mission for this challenge is to implement SSO experience in existing perso
 
 ## Learning Resources
 
-1. [Types of Cards](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/cards-reference)
-2. [Send proactive messages](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/conversations/send-proactive-messages)
-3. [Notifications to your message](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/conversations/conversation-messages?tabs=dotnet#notifications-to-your-message)
+1. [Single sign-on (SSO) support for tabs](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet)
+2. [Single sign-on (SSO) support for bots](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
+3. [https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/enable-sso-auth-me](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/enable-sso-auth-me)
 4. Code Samples
-    1. [Tab SSO](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet#code-sample).
+    1. [Tabs samples](https://github.com/OfficeDev/Microsoft-Teams-Samples#tabs-samples) - many code samples with SSO.
+    2. [Tab SSO](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet#code-sample).
 
