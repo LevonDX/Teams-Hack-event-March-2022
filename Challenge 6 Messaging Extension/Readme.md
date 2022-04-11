@@ -2,12 +2,12 @@
 
 Messaging extensions allow the users to interact with your web service through buttons and forms in the Microsoft Teams client. They can search or initiate actions in an external system from the compose message area, the command box, or directly from a message. You can send back the results of that interaction to the Microsoft Teams client in the form of a richly formatted card. This document gives an overview of the messaging extension, tasks performed under different scenarios, working of messaging extension, action and search commands, and link unfurling.
 There are two types of messaging extension commands, action command and search command.
-<br>
+<br/><br/>
 **Search commands** allow the users to search an external system for information either manually through a search box, or by pasting a link to a monitored domain into the compose message area, and insert the results of the search into a message. In the most basic search command flow, the initial invoke message includes the search string that the user submitted. 
 ![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me1.png)
 ![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me2.png)
 
-<br/>
+<br/><br/>
 **Action commands** are used to present the users with a modal popup to collect or display information. When the user submits the form, your web service responds by inserting a message into the conversation directly or by inserting a message into the compose message area. After that the user can submit the message. You can chain multiple forms together for more complex workflows.
 ![Messaging extension: action commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me3.png)
 
