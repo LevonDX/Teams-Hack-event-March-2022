@@ -1,24 +1,35 @@
 # Challenge 6: Create Messaging extension.
 
+Messaging extensions allow the users to interact with your web service through buttons and forms in the Microsoft Teams client. They can search or initiate actions in an external system from the compose message area, the command box, or directly from a message. You can send back the results of that interaction to the Microsoft Teams client in the form of a richly formatted card. This document gives an overview of the messaging extension, tasks performed under different scenarios, working of messaging extension, action and search commands, and link unfurling.
+There are two types of messaging extension commands, action command and search command.
+<br>
+**Search commands** allow the users to search an external system for information either manually through a search box, or by pasting a link to a monitored domain into the compose message area, and insert the results of the search into a message. In the most basic search command flow, the initial invoke message includes the search string that the user submitted. 
+![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me1.png)
+![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me2.png)
+
+<br/>
+**Action commands** are used to present the users with a modal popup to collect or display information. When the user submits the form, your web service responds by inserting a message into the conversation directly or by inserting a message into the compose message area. After that the user can submit the message. You can chain multiple forms together for more complex workflows.
+![Messaging extension: action commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me3.png)
+
 ## Prerequisites
 
-You should have an 1-1 Bot already setup. Bot
+You should have an 1-1 Bot already setup. 
 
 ## Description
 
-Your mission for this challenge is to **create** the messaging extension.
-Messaging extension should have the following functionality:
+Your mission for this challenge is to **deploy** the messaging extension from GitHub Repository
+1. Download samples app from GitHub: Messaging extensions - search command ([C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/50.teams-messaging-extensions-search),	[JavaScript](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/50.teams-messaging-extensions-search),	[Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/50.teams-messaging-extensions-search),	[Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/50.teams-messaging-extensions-search).) and Messaging extensions - action command ([C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/51.teams-messaging-extensions-action),	[JavaScript](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/51.teams-messaging-extensions-action),	[Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/51.teams-messaging-extensions-action),	[Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/51.teams-messaging-extensions-action).)
+2. Publish your application to Azure App Service or run it locally using the [tutorial](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/debug).
+3. Open "Developer Portal" (app or website) and open your application.
+4. Add messaging extention to your application and change the app version.
+5. Press "Submit new version".
+6. Go to Admin Center to approve published application.
+7. Go to Teams Store (bottom of your Teams) and install the updated version of the app.
 
-1. Suport engineer should be able to send an Adaptive card with detailed information about the incident to 1:1 chat/team's channel.
-![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me1.png)
-![Messaging extension: search commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me2.png)
-2. (optional) Support engineer should be able to create a new incident from the user message
-![Messaging extension: action commands](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/me3.png)
 
 ## Success Criteria
 
-1. Demonstrate to your coach that you can send an adaptive card with the information about incident to 1-1 chat and team's channel.
-2. Demonstrate to your coach that you can create a new incident from user's message.
+1. Demonstrate to your coach that you successfully deployed messaging extentions.
 
 ## Learning Resources
 
