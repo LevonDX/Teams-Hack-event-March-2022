@@ -1,4 +1,4 @@
-# Challenge 4: Create a personal and channel Bot within Teams
+# Challenge 4: Create a Personal and Channel Bot within Teams
 
 A bot is an app that runs simple and repetitive tasks by users such as customer service or support staff. Everyday use of bots include, bots that provide information about the weather, make dinner reservations, or provide travel information. Interactions with bots can be quick questions and answers or complex conversations.
 
@@ -16,14 +16,15 @@ Your mission for this challenge is to **deploy** a Bot that can operate within T
 4. Configure your Azure Bot Service to consume your local exposed endpoint.
 5. Add your Bot to Teams and start an 1-1 dialog.
 6. Deploy your Bot to Azure, on an App Service, and re-configure the Azure Bot Service accordingly.
-7. Based on dialog with bot create [bot commands](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/create-a-bot-commands-menu?tabs=desktop%2Cdotnet) (You can do this as minimum for command "help").
+7. Based on dialog with bot create [bot commands](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/create-a-bot-commands-menu?tabs=desktop%2Cdotnet) (You can do this as minimum for command "help". For defining other commands you can chek the code of the sample).
 8. Add bot to current app package of create a new one. Make it work for 1-1 and in channel.
-9. If you use existing app package, updaye the app version and perform steps to deploy the updated app package.
+9. If you use existing app package, update the app version and perform steps to deploy the updated app package.
 
 ## Success Criteria
 
-1. Demonstrate to your coach a Bot that can have an 1-1 conversation with a user and works in channel as well, with the above 2 commands and the ***suggestions*** functionality;
+1. Demonstrate to your coach a Bot that can have an 1-1 conversation with a user and works in channel as well, with the above 2 commands.
 2. Demonstrate to your coach that the Bot is deployed on an Azure Service or you run in locally.
+3. Demonstrate to your coach that when you add a new user to the Teams Channel the Bot sends a "Welcome Message".
 
 ## Learning Resources
 
