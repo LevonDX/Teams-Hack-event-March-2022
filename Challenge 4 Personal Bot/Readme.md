@@ -1,4 +1,4 @@
-# Challenge 4: Create a Personal and Channel Bot within Teams
+# Challenge 4: Create a Personal and Channel Bot
 
 A bot is an app that runs simple and repetitive tasks by users such as customer service or support staff. Everyday use of bots include, bots that provide information about the weather, make dinner reservations, or provide travel information. Interactions with bots can be quick questions and answers or complex conversations.
 
