@@ -20,7 +20,7 @@ Your mission for this challenge is to implement SSO experience in existing perso
 
 1. [Single sign-on (SSO) support for tabs](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet)
 2. [Single sign-on (SSO) support for bots](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/authentication/auth-aad-sso-bots)
-3. [Single sign-on support for messaging extensions](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/enable-sso-auth-me)(https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/enable-sso-auth-me)
+3. [Single sign-on support for messaging extensions](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/how-to/enable-sso-auth-me)
 4. Code Samples
     1. [Tabs samples](https://github.com/OfficeDev/Microsoft-Teams-Samples#tabs-samples) - many code samples with SSO.
     2. [Tab SSO](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/auth-aad-sso?tabs=dotnet#code-sample).
