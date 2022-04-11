@@ -11,7 +11,7 @@ Your mission for this challenge is to **deploy** a Bot that can operate within T
 ## Getting Started
 
 1. Use the Teams Conversation bot code sample: [C#](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/csharp_dotnetcore/57.teams-conversation-bot), [JavaScript / Node.js](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/javascript_nodejs/57.teams-conversation-bot), [Python](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/python/57.teams-conversation-bot), [Java](https://github.com/microsoft/BotBuilder-Samples/blob/main/samples/java_springboot/57.teams-conversation-bot).
-2. Make sure that the sample builds and runs locally
+2. Make sure that the sample builds and runs locally.
 3. Expose your local environment publicly by using ngrok. Please use the [tutorial](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/debug)
 4. Configure your Azure Bot Service to consume your local exposed endpoint.
 5. Add your Bot to Teams and start an 1-1 dialog.
