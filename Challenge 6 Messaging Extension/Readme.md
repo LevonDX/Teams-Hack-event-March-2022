@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Complete Challenge #1, you should have an 1-1 Bot already setup. Bot
+You should have an 1-1 Bot already setup. Bot
 
 ## Description
 

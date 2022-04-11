@@ -1,8 +1,5 @@
-# Challenge 1: Create a personal (1-1) Bot within Teams
+# Challenge 4: Create a personal (1-1) Bot within Teams
 
-## Prerequisites
-
-Complete Challenge #1-1, for setting up a Teams app.
 
 ## Description
 
@@ -10,10 +7,11 @@ Your mission for this challenge is to **create** and **deploy** a Bot that can o
 The Bot should have two commands:
 
 1. Create Support Ticket.
-    1. The user should be able to write as free text his/hers support ticket request, the Bot should reply back that it received the ticket and also write back to original text. At this stage the Bot does **not** need to "persist" the new ticket request.
+    1. The user should be able to write as free text his/hers, the Bot should reply back that the text is received and also write back to original text.
 
 2. Help command.
-    1. The Bot should reply back with all available commands, in this case just Create Support Ticket.
+    1. The Bot should reply back with all available commands, for example  "Create Support Ticket".
+
 3. The Bot should show the above commands as ***suggestions*** before the user actually types anything.
 ![Commands Popup](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/HelpPopUp.jpg)
 

@@ -1,4 +1,4 @@
-# Challenge 1-1: Setup a Bot using Bot Framework and Azure Bot Service
+# Challenge 3: Setup a Bot using Bot Framework and Azure Bot Service
 
 ## Prerequisites
 

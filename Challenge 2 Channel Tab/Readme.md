@@ -8,7 +8,7 @@ The following image shows channel tab:<br/>
 
 ## Description
 
-Your mission for this challenge is to **create** a channel tab for Teams that shows the list of support tickets.
+Your mission for this challenge is to **create** a channel tab for Teams.
 
 ## Getting Started
 
