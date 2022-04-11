@@ -1,4 +1,4 @@
-# Challenge 6: Create Messaging extension.
+# Challenge 6: Create a Messaging extension.
 
 Messaging extensions allow the users to interact with your web service through buttons and forms in the Microsoft Teams client. They can search or initiate actions in an external system from the compose message area, the command box, or directly from a message. You can send back the results of that interaction to the Microsoft Teams client in the form of a richly formatted card. This document gives an overview of the messaging extension, tasks performed under different scenarios, working of messaging extension, action and search commands, and link unfurling.
 There are two types of messaging extension commands, action command and search command.
@@ -31,7 +31,7 @@ Your mission for this challenge is to **deploy** the messaging extension from Gi
 
 ## Success Criteria
 
-1. Demonstrate to your coach that you successfully deployed messaging extentions.
+1. Demonstrate to your coach that you successfully deployed messaging extentions. You can deploy both messaging extentions separatelly or add the code from one sample to another and deploy one app with both messaging extentions.
 
 ## Learning Resources
 
