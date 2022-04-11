@@ -16,6 +16,9 @@ Your mission for this challenge is to **deploy** a Bot that can operate within T
 4. Configure your Azure Bot Service to consume your local exposed endpoint.
 5. Add your Bot to Teams and start an 1-1 dialog.
 6. Deploy your Bot to Azure, on an App Service, and re-configure the Azure Bot Service accordingly.
+7. Based on dialog with bot create [bot commands](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/create-a-bot-commands-menu?tabs=desktop%2Cdotnet) (You can do this as minimum for command "help").
+8. Add bot to current app package of create a new one. Make it work for 1-1 and in channel.
+9. If you use existing app package, updaye the app version and perform steps to deploy the updated app package.
 
 ## Success Criteria
 
