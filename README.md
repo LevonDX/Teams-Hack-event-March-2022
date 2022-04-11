@@ -2,13 +2,13 @@
 
 ## Your Mission
 
-In this hands on learning experience, we are going to build several components of Teams Applications.
+In this hands on learning experience, we are going to deploy a different components of application for Teams.
 Particularely: 
 
-Create a Teams Application with the following features
+Build a Teams Application with the following features
 
-1. Create a Personal Tab Teams app
-2. Create a Teams Tab Teams app that works in a channel
-1. Create a Bot that receives 1-1 requests
-2. Create a Bot that functions within a Teams Team
-5. Create a Messaging Extension
+1. Build a Personal Tab Teams app
+2. Build a Teams Tab Teams app that works in a channel
+3. Build a Bot that receives 1-1 requests
+4. Build a Bot that functions within a Teams Team
+5. Build a Messaging Extension
