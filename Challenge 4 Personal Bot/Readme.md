@@ -5,7 +5,7 @@ A bot is an app that runs simple and repetitive tasks by users such as customer 
 ## Description
 Your mission for this challenge is to **deploy** a Bot that can operate within Teams, and can have an interaction with a Teams users. The Bot should work in a "personal" and "channel" context.
 
-https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/bot.png
+![Bot](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/img/bot.png)
 ![Commands Popup](https://github.com/LevonDX/Teams-Hack-event-March-2022/blob/main/Resources/HelpPopUp.jpg)
 
 ## Getting Started
