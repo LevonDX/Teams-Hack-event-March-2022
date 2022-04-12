@@ -20,8 +20,8 @@ For step-by-step tutorial, how to create a custom Personal tab and add it to Tea
 1. Download sample app from GitHub ["Personal tab quick-start"](https://github.com/OfficeDev/microsoft-teams-sample-tabs.git).
 2. Publish your application to Azure App Service. If you do it from Visual Studio, [this tutorial](https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs#publish-your-web-app) may help.
 4. Open "Developer Portal" (app or website) and open your application.
-5. Add Personal Tab to your application and change the app version.
-6. Press "Submit new version".
+5. Create a new app or upload an existing app manifest. Check that personal tab is added. 
+6. Publish the app to company's app catalog.
 7. Go to Admin Center to approve published application.
 8. Go to Teams Store (bottom of your Teams) and install the updated version of the app.
 
