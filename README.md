@@ -9,6 +9,6 @@ Build a Teams Application with the following features
 
 1. Build a Personal Tab Teams app
 2. Build a Teams Tab Teams app that works in a channel
-3. Build a Bot that receives 1-1 requests
-4. Build a Bot that functions within a Teams Team
+3. Build a Bot that works in personal and channel scope
+4. Implement a SSO for persinal tab
 5. Build a Messaging Extension
